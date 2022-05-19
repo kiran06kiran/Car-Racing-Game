@@ -1,3 +1,4 @@
+
 import pygame, sys
 
 pygame.init()  # initializes the Pygame
